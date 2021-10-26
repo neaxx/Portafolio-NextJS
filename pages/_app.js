@@ -1,4 +1,4 @@
-import 'bootswatch/dist/cosmo/bootstrap.min.css'
+import 'bootswatch/dist/Cosmo/bootstrap.min.css'
 
 
 
